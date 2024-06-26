@@ -1,0 +1,17 @@
+<script>
+    let questions = [
+        {
+            question: "Kas ir galvenais Latvijas pilsētas?",
+            options: ["Rīga", "Liepāja", "Daugavpils", "Jelgava"],
+            correctAnswer: 0 // indekss masīvā, kas norāda pareizo atbildi
+        },
+        {
+            question: "Kurš ir pirmās Latvijas valsts prezidents?",
+            options: ["Jānis Čakste", "Kārlis Ulmanis", "Andris Bērziņš", "Valdis Zatlers"],
+            correctAnswer: 0
+        },
+        {
+            question: "Kas ir Latvijas nacionālais zieds?",
+            options: ["Lilija", "Saknes", "Roze", "Krusttirpi"],
+            correctAnswer: 0
+ vec
